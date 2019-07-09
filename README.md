@@ -1,5 +1,5 @@
 # NYT-Crossword-Solver
-Learnig C++ Algorithm which solves NYT Crossword Solver.
+Self-Learnig C++ Algorithm which solves NYT Crossword Solver.
 
 Task: Given 5x5 grid and Clues solve the crossword at https://www.nytimes.com/crosswords/game/mini. 
 
